@@ -1,12 +1,12 @@
 import "./App.css";
 import React from "react";
-import Component from "./components/component/Component";
+import Count from "./components/Count.jsx";
 
 function App() {
   return (
     <>
       <div className="App">
-        <Component />
+        <Count />
       </div>
     </>
   );
